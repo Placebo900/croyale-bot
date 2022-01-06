@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-ACCESS_TOKEN = '' # wrte token
+ACCESS_TOKEN = '' # write token
 
 class CRoyale:
     
